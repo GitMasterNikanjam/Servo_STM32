@@ -1,8 +1,8 @@
 --cpu Cortex-M3
 "simpletest_stm32f103c8t6\startup_stm32f103xb.o"
-"simpletest_stm32f103c8t6\main.o"
 "simpletest_stm32f103c8t6\stm32f1xx_it.o"
 "simpletest_stm32f103c8t6\stm32f1xx_hal_msp.o"
+"simpletest_stm32f103c8t6\main.o"
 "simpletest_stm32f103c8t6\stm32f1xx_hal_gpio_ex.o"
 "simpletest_stm32f103c8t6\stm32f1xx_hal_tim.o"
 "simpletest_stm32f103c8t6\stm32f1xx_hal_tim_ex.o"
